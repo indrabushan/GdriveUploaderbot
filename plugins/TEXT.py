@@ -30,7 +30,7 @@ HELP = """<b>AUTHORISE BOT</b>
             
             + More On Its way:)
 
-  Bug Report @Kirodewal
+  Bug Report @SI_NN_ER_LS
           """
 DP_DOWNLOAD = "Dropbox Link !! Downloading Started ..."
 OL_DOWNLOAD = "Openload Link !! Downloading Started ... \n Openload Links Are Extremely Slow"
